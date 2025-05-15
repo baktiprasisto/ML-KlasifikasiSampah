@@ -30,4 +30,5 @@ The dataset includes various types of waste such as:
 
 ---
 
-## 🚀 If you want to see what the Streamlit is like, you can access the following link: (https://ml-klasifikasisampah-sr9vpwmlnaddfhvl9cmkwh.streamlit.app/)
+## 🚀 If you want to see what the Streamlit is like, 
+you can access the following link: (https://bit.ly/StreamlitKlasifikasiSampah)
